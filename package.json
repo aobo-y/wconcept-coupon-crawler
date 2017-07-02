@@ -1,0 +1,26 @@
+{
+  "name": "wconcept-coupon-crawler",
+  "version": "1.0.0",
+  "description": "search coupons in wconcept",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "cheerio": "^1.0.0-rc.1",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangaobo/wconcept-coupon-crawler.git"
+  },
+  "author": "Aobo Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangaobo/wconcept-coupon-crawler/issues"
+  },
+  "homepage": "https://github.com/yangaobo/wconcept-coupon-crawler#readme"
+}
